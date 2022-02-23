@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 He was the Best !!! 
 That was the worst!!!
+=======
+Alien was come from Jesu Planet.
+>>>>>>> alien-plot
